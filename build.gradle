@@ -30,3 +30,7 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 
+ext {
+    appCompatVersion = '1.1.0'
+    designSupportVersion = '1.0.0'
+}
